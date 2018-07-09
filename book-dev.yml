@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: book
+env: dev6
+book: 
+  author: Licoy1
+  min: 100
+  max: 10000
+  bookList:
+    - haha
+    - heihei
