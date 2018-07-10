@@ -1,4 +1,4 @@
 spring:
   application:
     name: book
-env: dev7
+env: dev8
