@@ -3,7 +3,7 @@ spring:
     name: book
 env: dev7
 book: 
-  author: Licoy9
+  author: Licoy11
   min: 100
   max: 10000
   bookList:
