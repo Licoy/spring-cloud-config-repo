@@ -1,7 +1,7 @@
 spring:
   application:
     name: book
-env: dev2
+env: dev3
 book: 
   author: Licoy13
   min: 100
